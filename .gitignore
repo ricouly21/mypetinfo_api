@@ -1,0 +1,14 @@
+.idea/**
+*.py~
+*.sublime-project
+*.sublime-workspace
+**/local_settings.py
+**/files/*
+**/migrations/*
+.DS_Store
+*.sqlite3
+*.pyc
+*.pyc~
+venv/*
+static
+*.sh
